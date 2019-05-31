@@ -1,5 +1,4 @@
 
-USE eye;
 CREATE TABLE eye_bai(
   id INT PRIMARY KEY AUTO_INCREMENT,
   
