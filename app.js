@@ -72,7 +72,7 @@ server.use(express.static("public"));
     })
   })
   
-
+//git修改测试
   server.get("/anli",(req,res)=>{
     //1:获取二个参数,只要分页功能
     //  pno      页码

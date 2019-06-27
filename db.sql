@@ -2,6 +2,7 @@
 CREATE TABLE eye_bai(
   id INT PRIMARY KEY AUTO_INCREMENT,
   
+  
   biaoti VARCHAR(225),
   title VARCHAR(225),
   sel  VARCHAR(225),
